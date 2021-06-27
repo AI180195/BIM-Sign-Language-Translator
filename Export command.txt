@@ -1,0 +1,1 @@
+PyInstaller --hidden-import=keras.engine.base_layer_v1 GUI

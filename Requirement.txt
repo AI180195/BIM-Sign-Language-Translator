@@ -1,0 +1,7 @@
+Python 3.7
+PyQt5
+opencv-python
+tensorflow-gpu
+Pillow
+scikit-learn
+keras
